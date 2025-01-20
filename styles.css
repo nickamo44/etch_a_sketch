@@ -1,0 +1,8 @@
+#container{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 10%;
+    flex-wrap: wrap;
+}
