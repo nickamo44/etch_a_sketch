@@ -3,6 +3,16 @@
     height: 500px;
     display: flex;
     flex-direction: row;
-    padding-left: 10%;
+    margin: auto;
     flex-wrap: wrap;
+    padding-top: 2%;
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+    display: block;
+    margin: auto;
 }
